@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🌵 Currently i'm learning React<br>- 🎲 I'm looking to learn more languages!<br>- 🤠 Pronouns: He/Him<br>- 🖼️ I love art and games!</p>
+- 🌵 Currently i'm learning React
+- 🎲 I'm looking to learn more languages!
+- 🤠 Pronouns: He/Him
+- 🖼️ I love art and games!
 
 ###
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Hello, world! I'm Vinícius! 👋</h3>
+<h3 align="left">Hello, world! I'm Vinícius!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" /></h3>
 
 ###
 

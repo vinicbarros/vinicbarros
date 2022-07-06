@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🎲 I'm looking to learn more languages!
 - 🤠 Pronouns: He/Him
 - 🖼️ I love art and games!
+- ⚡ Fun fact: I love to play the piano!
 
 ###
 <h3 align="left">Contact me!</h3>

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I'm a student of Full Stack development! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20"/> </h2>
+<h2 align="left">I'm a student of Full Stack development! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>
 
 ###
 

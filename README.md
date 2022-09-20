@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I'm a student of Full Stack development! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>
+<h2 align="left">I'm a student of Software Engineering at Driven Education! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>
 
 ###
 
-- 🌵 Currently i'm learning React
+- 🌵 Currently i'm learning SQL
 - 🎲 I'm looking to learn more languages!
 - 🤠 Pronouns: He/Him
 - 🖼️ I love art and games!

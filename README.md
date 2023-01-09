@@ -7,7 +7,11 @@
 
 ###
 
-<h2 align="left">I'm a student of Software Engineering at Driven Education! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>
+<h2 align="left">I'm a Full Stack Software Engineer! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>
+
+###
+
+<p align="left">I'm a 19 years old developer and i started to code 2 years ago. I love a new challenge and coding gives me this every day!</p>
 
 ###
 

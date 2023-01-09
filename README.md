@@ -1,9 +1,9 @@
 
-<h1 align="left">Hello, world! I'm Vinícius!  </h1>
+<h1 align="left">Hello, world! I'm Vinícius! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20"/></h1>
 
 ###
 
-<img align="right" height="325" src="https://i.pinimg.com/originals/66/d1/ee/66d1eecbb03cb25bac5a5e8d13a2ec58.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/66/d1/ee/66d1eecbb03cb25bac5a5e8d13a2ec58.gif"  />
 
 ###
 
@@ -15,10 +15,11 @@
 
 ###
 
-- 🌵 Currently i'm learning SQL
-- 🎲 I'm looking to learn more languages!
+- 🌵 Currently i'm learning Docker and AWS
+- 🎲 I'm looking to learn more languages and improve people lives!
 - 🤠 Pronouns: He/Him
 - 🖼️ I love art and games!
+- 📢 Feel free to reach me on Linkedin or via email: vicaetano.barros@gmail.com
 - ⚡ Fun fact: I love to play the piano!
 
 ###

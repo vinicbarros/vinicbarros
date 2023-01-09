@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello, world! I'm Vinícius!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15" /></h1>
+<h1 align="left">Hello, world! I'm Vinícius!  </h1>
 
 ###
 

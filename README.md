@@ -33,9 +33,6 @@
   <a href="mailto:vicaetano.barros@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/ovinibarros/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
-  </a>
 </div>
 
 ### 

@@ -15,7 +15,7 @@
 
 ###
 
-- 🌵 Currently i'm learning Docker and AWS
+- 🌵 Currently i'm learning React Native
 - 🎲 I'm looking to learn more languages and improve people lives!
 - 🤠 Pronouns: He/Him
 - 🖼️ I love art and games!

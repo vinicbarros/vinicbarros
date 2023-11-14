@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm a 20 years old developer and i started to code 2 years ago. I love a new challenge and coding gives me this every day!</p>
+<p align="left">I'm a 20 years old developer and i started to code 4 years ago. I love a new challenge and coding gives me this every day!</p>
 
 ###
 

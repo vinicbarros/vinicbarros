@@ -3,8 +3,6 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/66/d1/ee/66d1eecbb03cb25bac5a5e8d13a2ec58.gif"  />
-
 ###
 
 <h2 align="left">I'm a Full Stack Software Engineer! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"/> </h2>

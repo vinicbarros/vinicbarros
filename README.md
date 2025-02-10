@@ -13,7 +13,7 @@
 
 ###
 
-- 🌵 Currently i'm learning Angular
+- 🌵 Currently i'm learning Kotlin
 - 🎲 I'm looking to learn more languages and improve people lives!
 - 🤠 Pronouns: He/Him
 - 🖼️ I love art and games!
